@@ -1,0 +1,3 @@
+[submodule "packages/md-picture"]
+	path = packages/md-picture
+	url = https://github.com/jingguangyan/md-picture
